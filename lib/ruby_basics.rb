@@ -14,7 +14,7 @@ def greeting
 
 end
 
-def return_a_value(personality = "nice")
+def return_a_value(personality = "Nice")
 "#{personality}"
 end
 
