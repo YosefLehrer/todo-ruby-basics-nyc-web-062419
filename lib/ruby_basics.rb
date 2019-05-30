@@ -22,6 +22,6 @@ def last_evaluated_value
 
 end
 
-def pizza_party(type)
+def pizza_party(type = "cheese")
 "#{type}"
 end
